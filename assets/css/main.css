@@ -529,7 +529,7 @@
 
 	}
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 1920px) {
 
 		.row > * {
 			padding: 0 0 0 1.5em;
@@ -1427,7 +1427,7 @@
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1920px) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -2566,7 +2566,7 @@
 			background-color: rgba(0, 0, 0, 0.75);
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1920px) {
 
 			.spotlight .image {
 				width: 45%;
@@ -2620,7 +2620,7 @@
 			margin: 0 auto;
 		}
 
-			@media screen and (max-width: 1280px) {
+			@media screen and (max-width: 1920px) {
 
 				.wrapper > .inner {
 					width: 90%;
@@ -3664,7 +3664,7 @@
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1920px) {
 
 			#main > header {
 				padding: 8em 3em 6em 3em ;
